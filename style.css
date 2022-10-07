@@ -1,0 +1,181 @@
+.left_margin{
+    background-color: rgb(251, 251, 251);
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.padding_top{
+    padding-top: 100px;
+}
+.button_main{
+    padding-left: 90px;
+    padding-top: 40px;
+}
+.colorgray{
+    color: rgb(180, 178, 178);
+}
+.button1{
+    border: transparent;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+}
+.hover_button1{
+    border: transparent;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+}
+.hover_button1:hover{
+    background: rgb(132, 132, 132);
+}
+.button2{
+    color: rgb(0, 0, 255);
+    border-color: blue;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+    background: transparent;
+    border-width: thin;
+}
+.hover_button2{
+    color: rgb(0, 0, 255);
+    border-color: blue;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+    background: transparent;
+    border-width: thin;
+}
+.hover_button2:hover{
+    background-color: rgb(207, 237, 248);
+}
+.button3{
+    color: blue;
+    border: transparent;
+    background: transparent;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+}
+.hover_button3{
+    color: blue;
+    border: transparent;
+    background: transparent;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+}
+.hover_button3:hover{
+    background-color: rgb(207, 237, 248);
+}
+.button4{
+    color: white;
+    background: blue;
+    border: transparent;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+}
+.button5{
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+    border: transparent;
+    color: grey;
+    background: rgb(215, 214, 214);
+}
+.hover_button5{
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+    border: transparent;
+    color: grey;
+    background: transparent;
+}
+.button6{
+    color: white;
+    border: transparent;
+    background: blue;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+}
+.button7{
+    color: white;
+    background-color: blue;
+    border: transparent;
+    padding: 7px 20px 7px 20px;
+    border-radius: 7px;
+}
+.fontsize{
+    font-size: small;
+}
+.button8_1{
+    padding: 10px 28px 10px 28px;
+    border-radius: 10px;
+    border: transparent;
+    background: rgb(215, 214, 214);
+    font-size: larger;
+}
+.button8_2{
+    padding: 10px 28px 10px 28px;
+    border-radius: 10px;
+    border: transparent;
+    color: white;
+    background: blue;
+    font-size: larger;
+}
+.button8_3{
+    padding: 10px 28px 10px 28px;
+    border-radius: 10px;
+    border: transparent;
+    color: white;
+    font-size: larger;
+    background-color: rgb(116, 115, 115);
+}
+.button8_4{
+    padding: 10px 28px 10px 28px;
+    border-radius: 10px;
+    border: transparent;
+    color: white;
+    font-size: larger;
+    background: red;
+}
+.button9_1{
+    padding: 10px 28px 10px 28px;
+    border-radius: 10px;
+    border: transparent;
+    background: rgb(215, 214, 214);
+    font-size: larger;
+}
+.button9_2{
+    padding: 10px 28px 10px 28px;
+    border-radius: 10px;
+    border: transparent;
+    color: white;
+    background: blue;
+    font-size: larger;
+}
+.button9_3{
+    padding: 10px 28px 10px 28px;
+    border-radius: 10px;
+    border: transparent;
+    color: white;
+    font-size: larger;
+    background-color: rgb(116, 115, 115);
+}
+.button9_4{
+    padding: 10px 28px 10px 28px;
+    border-radius: 10px;
+    border: transparent;
+    color: white;
+    font-size: larger;
+    background: red;
+}
+.button9_1:hover{
+    background: rgb(158, 157, 157);
+}
+.button9_2:hover{
+    background: rgb(7, 7, 146);
+}
+.button9_3:hover{
+    background-color: rgb(60, 60, 60); 
+}
+.button9_4:hover{
+    background: rgb(135, 2, 2);
+}
+.fonttostyle{
+    font-style: italic;
+    font-weight: 600;
+    font-size: small;
+}
